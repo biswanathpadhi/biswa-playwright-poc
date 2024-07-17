@@ -1,0 +1,28 @@
+{
+  "name": "biswa-playwright-poc",
+  "version": "1.0.0",
+  "description": "Playwright POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write src/**/*.ts",
+    "check-format": "prettier --check src/**/*.ts"
+  },
+  "keywords": [],
+  "author": "Biswa",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.45.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.7.0",
+    "@playwright/test": "^1.45.2",
+    "@types/node": "^20.14.11",
+    "eslint": "^9.7.0",
+    "globals": "^15.8.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^7.16.1"
+  }
+}

@@ -1,0 +1,80 @@
+<testsuites id="" name="" tests="9" failures="0" skipped="0" errors="0" time="48.370436999999995">
+<testsuite name="api.test.ts" timestamp="2024-07-17T02:37:03.173Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.891" errors="0">
+<testcase name="API Tests › GET request example" classname="api.test.ts" time="0.139">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/api-API-Tests-GET-request-example-chromium/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="API Tests › POST request example" classname="api.test.ts" time="0.752">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/api-API-Tests-POST-request-example-chromium/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="login.test.ts" timestamp="2024-07-17T02:37:03.173Z" hostname="chromium" tests="1" failures="0" skipped="0" time="13.463" errors="0">
+<testcase name="test" classname="login.test.ts" time="13.463">
+<system-out>
+<![CDATA[Nexus 6
+
+[[ATTACHMENT|../test-results/login-test-chromium/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="api.test.ts" timestamp="2024-07-17T02:37:03.173Z" hostname="firefox" tests="2" failures="0" skipped="0" time="0.373" errors="0">
+<testcase name="API Tests › GET request example" classname="api.test.ts" time="0.084">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/api-API-Tests-GET-request-example-firefox/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="API Tests › POST request example" classname="api.test.ts" time="0.289">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/api-API-Tests-POST-request-example-firefox/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="login.test.ts" timestamp="2024-07-17T02:37:03.173Z" hostname="firefox" tests="1" failures="0" skipped="0" time="13.59" errors="0">
+<testcase name="test" classname="login.test.ts" time="13.59">
+<system-out>
+<![CDATA[Nexus 6
+
+[[ATTACHMENT|../test-results/login-test-firefox/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="api.test.ts" timestamp="2024-07-17T02:37:03.173Z" hostname="webkit" tests="2" failures="0" skipped="0" time="0.381" errors="0">
+<testcase name="API Tests › GET request example" classname="api.test.ts" time="0.089">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/api-API-Tests-GET-request-example-webkit/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="API Tests › POST request example" classname="api.test.ts" time="0.292">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/api-API-Tests-POST-request-example-webkit/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="login.test.ts" timestamp="2024-07-17T02:37:03.173Z" hostname="webkit" tests="1" failures="0" skipped="0" time="16.677" errors="0">
+<testcase name="test" classname="login.test.ts" time="16.677">
+<system-out>
+<![CDATA[Nexus 6
+
+[[ATTACHMENT|../test-results/login-test-webkit/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
